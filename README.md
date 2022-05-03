@@ -7,7 +7,6 @@ This README would normally document whatever steps are necessary to get the appl
 ```
 yarn setup
 ```
-
 ### Starting project
 
 After the environment setup start the application with those scripts:
